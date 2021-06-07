@@ -1,0 +1,18 @@
+{
+    "admin": {
+        "role": "admin", 
+        "pwhash": "de8a76f07ca3714fad8ae7487d264f859decfd938c89f18028e07beef063e1c8"
+    }, 
+    "homer": {
+        "role": "user", 
+        "pwhash": "467b1b85a0ee941df09ab955dcb561d51bcae760fbec8d0ec154c05528c9cb51"
+    }, 
+    "bart": {
+        "role": "user", 
+        "pwhash": "e111a1ef7daa8597240eda0ad482ba99ad09b4f84c093bde80063a23fff2cfde"
+    }, 
+    "marge": {
+        "role": "user", 
+        "pwhash": "467b1b85a0ee941df09ab955dcb561d51bcae760fbec8d0ec154c05528c9cb51"
+    }
+}
